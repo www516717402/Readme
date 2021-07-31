@@ -1,18 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kaining Ying</h1>
-<h3 align="center">A Computer Vision Lover.</h3>
+### Hi, I'm Jinyi.Wu. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobying&label=Profile%20views&color=0e75b6&style=flat" alt="noobying" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobying" alt="noobying" /></a> </p>
-
-- 🔭 I’m currently working on [Zero-Shot Detection](https://github.com/noobying/mmdetection_2.14.0_Zero-Shot_Instance_Segmenation)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobying&show_icons=true&locale=en&layout=compact" alt="noobying" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobying&show_icons=true&locale=en" alt="noobying" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobying&" alt="noobying" /></p>
+- 🔭 I’m now working for object detection.
+- 🤔 I’m currently coding in python and C++.
+- 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/ThinkingThigh/issues).
+<img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThinkingThigh&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkingThigh&hide_border=true">
+</div>
